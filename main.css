@@ -1,0 +1,17 @@
+.container {
+    
+    flex-wrap: wrap;
+    width: 500px;
+    height: 500px;
+    gap: 10px 10px;
+    /*margin: auto;*/
+    justify-content: space-around;
+    align-content: space-between;
+    /*border: 2px grey;*/
+}
+.item{
+    width: 150px;
+    height: 90px;
+    margin: auto;
+    /*border: 2px orange;*/
+}
